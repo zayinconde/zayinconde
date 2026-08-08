@@ -1,16 +1,14 @@
 ## Hi there 👋
 
-<!--
-**zayinconde/zayinconde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm **Zayin Conde**, an Electronics Engineering student at SDU with a passion for building, breaking, and understanding hardware.
 
-Here are some ideas to get you started:
+🇺🇸 American • 🇩🇰 Based in Denmark • Fluent in English & Danish
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 **Maker & Tinkerer** — electronics is more than just my education
+⚡ **Embedded Systems** — MCUs, firmware & hardware integration
+🔐 **Embedded Cybersecurity** — security at the hardware/firmware level
+🖥️ **FPGA & Digital Design** — VHDL, signal processing & control
+🔬 **PCB Design** — schematic capture, layout & prototyping
+📐 **CAD & 3D Modeling** — designing parts for real-world projects
+
+I enjoy turning ideas into working hardware and learning by building.
